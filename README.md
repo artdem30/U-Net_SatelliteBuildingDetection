@@ -16,7 +16,7 @@ My trained model achieved .81 IOU Score on satellite imagery from similar locati
 .72 was achieved for satellite imagery of different residential layouts, such as ones from California.
 
 To use this model as it is to detect buildings, download the trained weights at the above link and put into the root folder.
-Then put satellite image in input folder and run predict.py. This should give you an output image. Dow with this what you want.
+Then put satellite image in input folder and run predict.py. This should give you an output image. Do with this what you want.
 
 I will not go into much depth on this project because it was just a quick tool that helped me extract residential house coordinates
 for another research project I am doing. Hopefully someone finds use in this. I advise visiting qubvel's example for documentation on how to train for multiclass segmentation and the use of their pytorch segmentation library.
