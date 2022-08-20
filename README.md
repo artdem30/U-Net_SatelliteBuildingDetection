@@ -1,4 +1,4 @@
-# SimpleBuildingDetection-
+# U-Net_SatelliteBuildingDetection
 Trained U-Net model for semantic segmentation of buildings in satellite imagery. Included link to trained weights and training dataset used.
 
 This project was useful in some research I was doing for wildfire risk relating to insurance decisions.
